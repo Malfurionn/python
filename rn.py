@@ -2,7 +2,7 @@ import random
 
 b = 0
 while True:
-    i = random.randint(10000, 99999)
+    i = random.randint(10001, 99999)
     if i != 69420:
         print(i)
         b += 1
